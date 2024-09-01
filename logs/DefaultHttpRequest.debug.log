@@ -1,0 +1,160 @@
+[2023/9/1 15:04:45] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 15:04:45] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 07:04:45 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","5"],["x-kong-upstream-latency","41"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/26667300-3b50-4ddc-9f69-c786b4bb4ff1"
+ 
+[2023/9/1 15:04:45] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/26667300-3b50-4ddc-9f69-c786b4bb4ff1
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------378106099374809763975872"}
+Body: object 
+[2023/9/1 15:04:45] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/26667300-3b50-4ddc-9f69-c786b4bb4ff1
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","88"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 07:04:45 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1", "id": "2cbbc57c46760106a6aa8b4e456150b2a229f6a5", "size": 255625}]
+ 
+[2023/9/1 15:10:59] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 15:10:59] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 07:10:59 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","1"],["x-kong-upstream-latency","44"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/1a12db86-5197-43cd-b257-87c7d615052f"
+ 
+[2023/9/1 15:10:59] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/1a12db86-5197-43cd-b257-87c7d615052f
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------826093632057189074329098"}
+Body: object 
+[2023/9/1 15:10:59] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/1a12db86-5197-43cd-b257-87c7d615052f
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","93"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 07:10:59 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1.xlsx", "id": "6af0e31cd6d0a54d38eb259d1b664fc9e8217a7b", "size": 255625}]
+ 
+[2023/9/1 15:12:28] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 15:12:28] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 07:12:28 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","3"],["x-kong-upstream-latency","30"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/8232d585-a251-40af-b848-5987e00eb9c0"
+ 
+[2023/9/1 15:12:28] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/8232d585-a251-40af-b848-5987e00eb9c0
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------892920047085830998158715"}
+Body: object 
+[2023/9/1 15:12:28] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/8232d585-a251-40af-b848-5987e00eb9c0
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","93"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 07:12:28 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1.xlsx", "id": "45c138c25ac18f947ec3c30520cd970f56e124aa", "size": 255625}]
+ 
+[2023/9/1 15:16:09] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 15:16:09] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 07:16:09 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","0"],["x-kong-upstream-latency","45"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/110d83bb-86a0-4dd9-ba76-d1fd301b7b13"
+ 
+[2023/9/1 15:16:09] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/110d83bb-86a0-4dd9-ba76-d1fd301b7b13
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------938923638431547411868435"}
+Body: object 
+[2023/9/1 15:16:09] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/110d83bb-86a0-4dd9-ba76-d1fd301b7b13
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","97"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 07:16:10 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1 (1).xlsx", "id": "16908849b56528537af7c21e0c960ebd9dc45ffc", "size": 255625}]
+ 
+[2023/9/1 15:59:17] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 15:59:17] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 07:59:17 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","5"],["x-kong-upstream-latency","41"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/486ff0a6-2edd-42c1-aa4e-f827febdb9d1"
+ 
+[2023/9/1 15:59:17] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/486ff0a6-2edd-42c1-aa4e-f827febdb9d1
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------523000786655268173301360"}
+Body: object 
+[2023/9/1 15:59:17] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/486ff0a6-2edd-42c1-aa4e-f827febdb9d1
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","93"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 07:59:17 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1.xlsx", "id": "b4a7b793920777c96943c7504e10e53b6af54e1a", "size": 255625}]
+ 
+[2023/9/1 16:11:07] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 16:11:07] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 08:11:07 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","7"],["x-kong-upstream-latency","42"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/583e9ce2-cfd1-4ad5-a2c1-5788a8a8194a"
+ 
+[2023/9/1 16:11:07] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/583e9ce2-cfd1-4ad5-a2c1-5788a8a8194a
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------416207130158711770454858"}
+Body: object 
+[2023/9/1 16:11:07] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/583e9ce2-cfd1-4ad5-a2c1-5788a8a8194a
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","97"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 08:11:07 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1 (1).xlsx", "id": "2400ca60e90b5091e8f837b445d40cd51314621a", "size": 255625}]
+ 
+[2023/9/1 16:12:51] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 16:12:51] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 08:12:51 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","4"],["x-kong-upstream-latency","33"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/59994e5e-463c-469b-b630-4bf993f606d6"
+ 
+[2023/9/1 16:12:51] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/59994e5e-463c-469b-b630-4bf993f606d6
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------734834052628170460813802"}
+Body: object 
+[2023/9/1 16:12:51] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/59994e5e-463c-469b-b630-4bf993f606d6
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","93"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 08:12:51 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1.xlsx", "id": "d44b4939ee8a946bc3fbe21fd79cc1eef8dbc68d", "size": 255595}]
+ 
+[2023/9/1 16:14:42] Request: 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Headers: {"Content-Type":"application/json","Token":"dc8f20ffa95d3d1d9fe0e65b16c7483fd9ffb352"}
+Body: undefined 
+[2023/9/1 16:14:42] Response 
+GET http://panapi.corpautohome.com/api3/repos/acb3e5ce-8e7f-4393-94fa-cec9b2e92ee5/upload-link/
+Status: 200
+Headers: [["access-control-allow-origin","*"],["access-control-expose-headers","Authorization,Origin,Content-Type"],["allow","GET, HEAD, OPTIONS"],["connection","close"],["content-language","zh-cn"],["content-type","application/json"],["date","Fri, 01 Sep 2023 08:14:42 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"],["transfer-encoding","chunked"],["vary","Accept, Accept-Language, Cookie"],["via","kong/1.2.1"],["x-kong-proxy-latency","6"],["x-kong-upstream-latency","36"]]
+Data: "https://pan.corpautohome.com/seafhttp/upload-aj/414d5551-9aea-42d3-80d2-5ce5648a4fdb"
+ 
+[2023/9/1 16:14:42] Request: 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/414d5551-9aea-42d3-80d2-5ce5648a4fdb
+Headers: {"content-type":"multipart/form-data; boundary=--------------------------383402426425360039496148"}
+Body: object 
+[2023/9/1 16:14:42] Response 
+POST https://pan.corpautohome.com/seafhttp/upload-aj/414d5551-9aea-42d3-80d2-5ce5648a4fdb
+Status: 200
+Headers: [["access-control-allow-headers","x-requested-with, content-type, content-range, content-disposition, accept, origin, authorization"],["access-control-allow-methods","GET, POST, PUT, PATCH, DELETE, OPTIONS"],["access-control-allow-origin","*"],["access-control-max-age","86400"],["connection","close"],["content-length","97"],["content-type","text/plain"],["date","Fri, 01 Sep 2023 08:14:42 GMT"],["server","nginx"],["strict-transport-security","max-age=31536000; includeSubDomains"]]
+Data: [{"name": "2023-9-1 (1).xlsx", "id": "8e9733f771a29f3c6c183dae3b67880dc350074c", "size": 255625}]
+ 
